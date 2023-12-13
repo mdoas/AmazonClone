@@ -118,3 +118,26 @@ span{
     font-size: 0.9rem;
     font-weight: 700;
 }
+/** hero section **/
+.hero-section{
+    background-image: url("src/717RUPA1bDL._SX3000_.jpg");
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.hero-msg{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    margin-bottom: 20px;
+    width: 97%;
+}
+.hero-msg a{
+    color: #007185;
+}
